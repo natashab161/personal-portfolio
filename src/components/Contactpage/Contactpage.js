@@ -22,7 +22,7 @@ function Contactpage() {
                 <button
                   className="contactbtn"
                   onClick={() => {
-                    window.open("https://www.instagram.com/rahulvijay81/");
+                    window.open("https://www.linkedin.com/in/natasha-bartley/");
                   }}
                 >
                   Say Hello
