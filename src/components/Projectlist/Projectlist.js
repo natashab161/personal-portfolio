@@ -1,3 +1,4 @@
+{/*
 import React from 'react'
 import '../../pages/style.css';
 import ProjectCard from "./ProjectCard";
@@ -82,3 +83,5 @@ function Projectlist() {
   )
 }
 export default Projectlist
+
+*/}
