@@ -28,7 +28,11 @@ function Contactpage() {
                   Say Hello
                 </button>
                 <span></span>
+                
+                <div className="col-md-5">
+                  <div className="contactImage"></div>
 
+                </div>
                 
 
             </div>

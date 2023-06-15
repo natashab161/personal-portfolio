@@ -333,6 +333,13 @@
   background-size: cover;
   background-position: center;
 }
+.contactImage {
+  max-width: 500px;
+  height: 350px;
+  background-image: url(../Assets/DraftingIdeas.png);
+  background-size: cover;
+  background-position: center;
+}
 @media (max-width: 767px) {
   .aboutpagebackground {
     width: 100%;
