@@ -10,24 +10,31 @@ function Aboutpage() {
                 <Row className='textbackground'>
                     <Col md={7} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
-                        <p className='aboutdetails'>I'm a self-taught Front End developer from India. I build websites with a focus on providing the experience for everyone using them and responsiveness. Curious to learn more about developing scalable distribution systems, love problem solving, and care about writing and maintainable code. A responsive design makes your website accessible to all users, regardless of their devices.
+                        <p className='aboutdetails'>I'm a passionate and driven individual with a deep love for creativity, technology, and human connection. With a background in the arts, entertainment, and software engineering, I thrive at the intersection of technology and creative expression.
+                        <br/>
+                        <br/>
+                        I'm currently honing my skills in computer programming through The Flatiron School's software engineering boot camp. Through my work, I aspire to create immersive and engaging experiences that inspire and resonate with individuals worldwide. Join me on this exciting journey as we explore the limitless possibilities of technology and human expression.
                         </p>
                         <ul className='skilllist'>
                             <Row>
-                                <h3>Skills</h3>
-                                <Col md={7}>
+                            <Col md={7}>
+                                <h3>Languages</h3>
                                     <li>HTML5/CSS3</li>
                                     <li>JavaScript</li>
-                                    <li>jQuery</li>
-                                    <li>Bootsrap 5</li>
+                                    <li>Python</li>
+                                    <li>React</li>
+                                    <li>Flask</li>
                                 </Col>
                                 <Col md={5}>
-                                    <li>React Js</li>
-                                    <li>Redux Js</li>
-                                    <li>React-Bootsrap</li>
-                                    <li>Material-ui</li>
-                                    <li>Git/Github</li>
+                                <h3>Tools</h3>
+                                    <li>Git & Github</li>
+                                    <li>Google Cloud</li>
+                                    <li>Amazon Web Services</li>
+                                    <li>Adobe Suite</li>
+                                    <li>Figma</li>
                                 </Col>
+                                <br/>
+                                <br/>
                             </Row>
                         </ul>
                     </Col>
