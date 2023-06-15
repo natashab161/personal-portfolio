@@ -4,6 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 import Text from '../Homepage/Text'
 import {
   AiFillGithub,
+  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -31,6 +32,11 @@ function Home() {
             }}
             ><FaLinkedinIn className='icon' />
             </button>
+
+            <button onClick={() => {
+              window.open("https://www.instagram.com/natasha.b161/");
+            }}
+              className='socailmediabtn'><AiFillInstagram className='icon' /></button>
         
           </Col>
 
