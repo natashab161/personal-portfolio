@@ -62,7 +62,7 @@ function Header() {
             </NavLink>
           </Nav.Item>
 
-          <Nav.Item>
+        {/* <Nav.Item>
             <NavLink
               className="nav-link"
               to="/project"
@@ -70,7 +70,10 @@ function Header() {
             >
               Projects
             </NavLink>
+
+           
           </Nav.Item>
+          */}
 
           <Nav.Item>
             <NavLink
@@ -85,7 +88,7 @@ function Header() {
           <Button
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1zbrcyEPX5vpSL0JVXJb7x8CUZu089nYK/view?usp=sharing"
+                "https://drive.google.com/file/d/1gqhQgAXL4avrehLf7vq0rqn4wOMyxrwg/view?usp=sharing"
               );
             }}
             className="resumebtn"
