@@ -34,7 +34,7 @@ function Home() {
             </button>
 
             <button onClick={() => {
-              window.open("https://www.instagram.com/natasha.b161/");
+              window.open("https://www.instagram.com/natasha.5d/");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
         
