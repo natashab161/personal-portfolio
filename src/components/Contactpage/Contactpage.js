@@ -13,28 +13,34 @@ function Contactpage() {
               </h3>
                 <p className="aboutdetails">
                   I’m currently looking to get my software engineering career
-                  started with a company that fosters long term growth!
+                  started with a team who fosters long term growth.
                   I'm passionate about utilizng creative technologies
-                  <br /> to expand upon the potential of human creativity 
-                  <br /> to expand upon the potential of human creativity <br />
+                  to expand upon the potential of human creativity.
+                  If this aligns with your values, lets connect!
                   
                 </p>
+                <div>
                 <button
                   className="contactbtn"
                   onClick={() => {
                     window.open("https://www.linkedin.com/in/natasha-bartley/");
                   }}
+  
                 >
-                  Say Hello
+                  Say Hey!
                 </button>
+                </div>
                 <span></span>
                 
-                <div className="col-md-5">
+
+            </div>
+
+
+            <div className="col-md-5">
                   <div className="contactImage"></div>
                 </div>
                 
 
-            </div>
         </div>
       </Container>
     </div>
