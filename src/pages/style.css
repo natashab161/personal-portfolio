@@ -209,9 +209,9 @@
 }
 .imagedeveloper {
   margin-top: 50px;
-  max-width: 550px;
+  max-width: 100%;
   height: 400px;
-  background-image: url(../Assets/Web-designer-1024x821.webp);
+  background-image: url(../Assets/ComputerGirl.png);
   background-size: cover;
   background-position: center;
 }
