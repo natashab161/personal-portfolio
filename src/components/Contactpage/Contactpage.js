@@ -31,7 +31,6 @@ function Contactpage() {
                 
                 <div className="col-md-5">
                   <div className="contactImage"></div>
-
                 </div>
                 
 

@@ -336,7 +336,7 @@
 .contactImage {
   max-width: 500px;
   height: 350px;
-  background-image: url(../Assets/DraftingIdeas.png);
+  background-image: url(../Assets/ContactImage.png);
   background-size: cover;
   background-position: center;
 }
