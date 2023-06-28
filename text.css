@@ -1,0 +1,51 @@
+.quote-request-container {
+    background-color: #ccc;
+    border: 5px solid orange;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='number'] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    width: 100%;
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: not-allowed;
+  }
+  
+  .submit-button.active {
+    background-color: blue;
+    cursor: pointer;
+  }
+  
+  .submit-button.submitted {
+    background-color: green;
+    cursor: not-allowed;
+  }
+  
